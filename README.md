@@ -26,4 +26,4 @@ It was held November 11-13, 2011 at Innovation Research Park at Old Dominion Uni
 
 🍒 Questions? Would you like to add information about the project or its' contributors? Contact Victoria Farr at [victoriafarr@gmail.com](mailto:victoriafarr@gmail.com) and she'll happily add it.
 
-![Agrica%20net%20demo%20project%203d19a815c27643ee947b937f8ee90d32/agrica-demo-page-screengrab.png](Agrica%20net%20demo%20project%203d19a815c27643ee947b937f8ee90d32/agrica-demo-page-screengrab.png)
+![agrica-demo-page-screengrab](https://user-images.githubusercontent.com/81115723/113066523-a6813f00-9188-11eb-8c2d-db3ff999351a.png)
