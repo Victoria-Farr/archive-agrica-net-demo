@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: url(images/paperbkgd.png) no-repeat center center fixed;
+	    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+		font: italic 18px/20px Georgia, "Times New Roman", Times, serif;
+		color: #330;
+	}
+	
+ol { 
+	margin-top: 0;
+}
+
+li {
+	padding: 5px;
+}
+	
+#wrapper {
+		width: 900px;
+		height: 900px;
+		background-color: #222;
+		margin: 20px auto;
+		padding-top: 10px;
+		}
+		
+#header {
+	width: 900px;
+	height: 75px;
+	margin-left: 65px;
+	}
+	
+#slideshow {
+	width: 840px;
+	height: 200px;
+	margin: 0px auto;
+	}
+	
+#bottomsection {
+	width: 900px;
+	height: 415px;
+	background-image: url(images/bottom_bkgd.png);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	}
+	
+#textbox1 {
+	width: 275px;
+	height: 250px;
+	margin-top: 65px;
+	margin-left: 25px;
+	float: left;
+	}
+	
+#textbox2 {
+	width: 200px;
+	height: 250px;
+	margin-top: 65px;
+	margin-left: 60px;
+	float: left;
+	}
+	
+#textbox3 {
+	width: 275px;
+	height: 250px;
+	margin-top: 65px;
+	margin-left: 40px;
+	float: left;
+	}
+	
+#bottomsection2 {
+	width: 900px;
+	height: 60px;
+	margin-top: 30px;
+	margin-left: 100px;
+	float: left;
+	}
+	
+#copyrightbottom {
+	width: 900px;
+	height: 30px;
+	padding: 5px;
+	float: left;
+	}
+	
+.imagebumper {
+	margin-left: 120px;
+	}
+	
+.white {
+	color: #fff;
+	}
+	
